@@ -1,0 +1,14 @@
+1. login
+2. click en songs
+
+cancionesCreadas = 0; //inicializa la variables
+while(cancionesCreadas < 10){
+
+3. create new songs
+4. input songs information
+5. verify songs information
+6. click en songs
+7. verificar que la cancion esta creada
+
+cancionesCreadas++; //sumar 1 al numero de canciones
+

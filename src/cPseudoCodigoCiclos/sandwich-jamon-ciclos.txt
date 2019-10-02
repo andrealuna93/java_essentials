@@ -1,7 +1,15 @@
-numero_sandwiches = 0
-while(numero_sandwiches es menor que 10) {
-     hacerSandwich();
-     suma uno a numero_sandwiches
+*Hacer 5 sandwiches de jamon y 10 de bolonia
+
+Numero_sandwiches_bolonia se inicia en 0;
+while (numero_sandwiches es menor que 10){
+hacerSandwichBolonia();
+suma uno al numero_sandwiches
+}
+
+Numero_sandwiches_jamon se inicia en 0;
+while (numero_sandwiches es menor que 5){
+hacerSandwichJamon();
+suma uno al numero_sandwiches
 }
 
 

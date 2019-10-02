@@ -1,0 +1,30 @@
+login(username, password)
+    {
+    1. Abrir el navegador
+    2. Ingresar el link en el navegador
+    }
+
+listarCanciones()
+    {
+    }
+
+seleccionarCreateNewsong(Title, Length, Date, Lyrics)
+    {
+    Ingresar Title
+    Ingresar Length
+    Ingresar Date
+    Ingresar Lyrics
+    Click en "Save song"
+    }
+
+editCancion(Title, Length, Date, Lyrics)
+    {
+    }
+
+borrarCancion(tittle)
+    }
+    }
+
+verificarInformacionCancion(Title, Length, Date, Lyrics)
+    {
+    }
