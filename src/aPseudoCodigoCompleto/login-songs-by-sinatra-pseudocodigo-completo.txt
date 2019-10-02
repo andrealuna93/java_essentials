@@ -1,0 +1,18 @@
+1. Abrir el navegador
+2. Ingresar al link de la barra de navegacion
+3. Verificar que cargan los elementos de la pagina principal
+*logo
+*menu
+*imagen sinatra
+*link login
+*parrafo de bienvenida
+
+4. Seleccionar elñ enlace de Log in
+5. Verificar la carga de los elementos en Log in
+*campo username
+*campo password
+*boton de login
+6. Ingresar la informacion en los campos
+7. Dar clic en el boton de Lon in
+8. Validacion del mensaje que indica el Login en la pagina
+9. Validacion del enlace Log out
