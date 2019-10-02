@@ -7,7 +7,7 @@
 *link login
 *parrafo de bienvenida
 
-4. Seleccionar elñ enlace de Log in
+4. Seleccionar el enlace de Log in
 5. Verificar la carga de los elementos en Log in
 *campo username
 *campo password

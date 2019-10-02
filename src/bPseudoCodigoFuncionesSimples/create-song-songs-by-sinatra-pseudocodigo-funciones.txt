@@ -1,0 +1,60 @@
+navegarSongsBySinatra(){
+Abrir el navegador
+Ingresar al link de la barra de navegacion
+}
+
+verificarPaginaPrincipal(){
+Verificar que cargan los elementos
+*logo
+*menu
+*imagen sinatra
+*link login
+*parrafo de bienvenida
+}
+
+login(){
+Seleccionar el enlace de Log in
+Verificar la carga de los elementos en Log in
+*campo username
+*campo password
+*boton de login
+Ingresar la informacion en los campos
+Dar clic en el boton de Lon in
+}
+
+verificarLogin(){
+Validacion del mensaje que indica el Login en la pagina
+Validacion del enlace Log out
+}
+
+seleccionarOpcionSongs(){
+Seleccionar la opcion Songs
+Validar que se visualice la opcion Create a new song
+}
+
+seleccionarCreateNewsong(){
+Verificar la carga de los elementos
+*Title
+*Length
+*Date
+*Lyrics
+* Opcion Save song
+* Log out
+}
+
+crearCancion(){
+*Ingresar informacion en Title
+*Ingresar informacion en Length
+*Ingresar informacion en Date
+*Ingresar informacion en Lyrics)
+Seleccionar la opcion Save song
+}
+
+verificarInformacionCancion(){
+*Title
+*Date
+*Longitud
+*opciones ediat this song
+*delete this song
+*log out
+}
